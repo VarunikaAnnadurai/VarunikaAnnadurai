@@ -1,5 +1,5 @@
 
-![nyan-cat](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/c7ead178-a644-4a0c-a85f-b97733024256)
+![pacman](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/57a34c3d-4488-4e00-99da-75c9e17a89d3)
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
