@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
-<h3 align="center">A Data Analytics Enthusiast from India</h3>
+<h3 align="center">A Data Analytics Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=0e75b6&style=flat" alt="varunikaannadurai" /> </p>
 
 - 🔭 I’m currently working on **The Book Recommender Project: A Data-Driven Approach**
