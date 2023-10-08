@@ -1,3 +1,6 @@
+
+![pixel-study](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/fd79aa52-cd28-4b72-b209-62b1063798e2)
+
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=0e75b6&style=flat" alt="varunikaannadurai" /> </p>
