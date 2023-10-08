@@ -16,13 +16,6 @@
 - 📫 How to reach me **varunikaannadurai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunika annadurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunika annadurai" height="30" width="40" /></a>
-</p>
-
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VarunikaAnnadurai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=VarunikaAnnadurai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -30,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/1e/23/49/1e2349ed6563484043e97cf381c87fd4.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif"  />
 
 ###
 
@@ -89,9 +82,6 @@
   <a href="varunikaannadurai@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ varunika-annadurai-65490a264" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -101,4 +91,5 @@
 <img src="https://raw.githubusercontent.com/VarunikaAnnadurai/VarunikaAnnadurai/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
