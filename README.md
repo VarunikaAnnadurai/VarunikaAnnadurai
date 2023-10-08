@@ -1,5 +1,5 @@
 
-![pacman](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/57a34c3d-4488-4e00-99da-75c9e17a89d3)
+![image](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/50e620b7-5932-4bd4-a24e-e0518d9f448a)
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
