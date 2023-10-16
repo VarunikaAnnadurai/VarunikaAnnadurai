@@ -1,5 +1,5 @@
 
-![w8ZJLtJbmuph](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/3f040e1a-b97a-479d-ab5d-ec154b7902dc)
+![red and black](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/8d9723e5-68d1-4c08-8f30-e31d6dfc9b30)
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
