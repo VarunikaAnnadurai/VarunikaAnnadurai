@@ -1,5 +1,7 @@
 
-![dc1](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/fe1663a3-844b-486e-a73c-ce6dbd317a96)
+<p align="center">
+    <img src="![github-header-image](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/440380f6-3513-4824-9b0b-fec646c8d705)" alt="Material Bread logo">
+</p>
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
