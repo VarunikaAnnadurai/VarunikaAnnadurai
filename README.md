@@ -1,5 +1,5 @@
 
-<p align="center"> ![github-header-image](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/440380f6-3513-4824-9b0b-fec646c8d705)</p>
+<p align="center"> <img src="https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/440380f6-3513-4824-9b0b-fec646c8d705)"></p>
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
