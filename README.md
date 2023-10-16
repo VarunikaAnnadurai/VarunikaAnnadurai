@@ -1,10 +1,6 @@
 
 <p align="center"> <img src="https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/440380f6-3513-4824-9b0b-fec646c8d705)"></p>
 
-<h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
-<h3 align="center">A Data Analytics Enthusiast </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=0e75b6&style=flat" alt="varunikaannadurai" /> </p>
-
 - 🔭 I’m currently working on **The Book Recommender Project: A Data-Driven Approach**
 
 - 🌱 I’m currently learning **Python ML & Hadoop**
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **varunikaannadurai@gmail.com**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=0e75b6&style=flat" alt="varunikaannadurai" /> </p>
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif"  />
