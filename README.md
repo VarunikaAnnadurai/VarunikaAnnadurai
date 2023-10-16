@@ -1,5 +1,5 @@
 
-![dc](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/cc068695-b88e-4f57-a9d9-72f7cbe013a0)
+![dc1](https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/fe1663a3-844b-486e-a73c-ce6dbd317a96)
 
 <h1 align="center">Hi 👋, I'm Varunika Annadurai</h1>
 <h3 align="center">A Data Analytics Enthusiast </h3>
