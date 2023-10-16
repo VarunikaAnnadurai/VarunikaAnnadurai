@@ -13,8 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=0e75b6&style=flat" alt="varunikaannadurai" /> </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif"  />
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
