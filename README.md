@@ -37,7 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunikaAnnadurai&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikaannadurai&label=Profile%20views&color=6" alt="varunikaannadurai" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=VarunikaAnnadurai&icon=0&color=6" alt="varunikaannadurai" /> </p>
 [![](https://visitcount.itsvg.in/api?id=VarunikaAnnadurai&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br clear="both">
