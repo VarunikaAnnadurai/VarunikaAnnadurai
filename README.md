@@ -1,6 +1,7 @@
 
 <p align="center"> <img src="https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/440380f6-3513-4824-9b0b-fec646c8d705)"></p>
 <h2>About Me 👀</h2>
+
 - 🔭 I’m currently working on **The Book Recommender Project: A Data-Driven Approach**
 
 - 🌱 I’m currently learning **Python ML & Hadoop**
