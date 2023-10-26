@@ -45,7 +45,3 @@
 
 ###
 
-<video>
-  <source src="https://github.com/VarunikaAnnadurai/VarunikaAnnadurai/assets/147306753/7c0d6f9e-a601-44d2-bd3d-eef5315133f0">
-</video>
-
